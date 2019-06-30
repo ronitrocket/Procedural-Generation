@@ -1,0 +1,2 @@
+D:\Ronit Taleti True\Unity\New Unity Project\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Ronit Taleti True\Unity\New Unity Project\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
